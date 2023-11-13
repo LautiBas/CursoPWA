@@ -1,0 +1,21 @@
+.form{
+        border: solid thin #9dff00;
+        border-radius: 15px;
+        padding: 12px 25px;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin: 40px auto;
+        text-align: center;
+        justify-content: space-around;
+        max-width: 480px;
+        background-color: black;
+    }
+    .titulo{
+        color: #fff;
+    }
+
+    label{
+        color: #fff;
+    }
+

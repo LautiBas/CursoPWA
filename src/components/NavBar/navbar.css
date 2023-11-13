@@ -1,0 +1,35 @@
+.nav-menu{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;  
+    height: 90px;
+    background-color: #9dff00;
+    top: 0;
+    margin-bottom: 45px;
+}
+
+a{
+        text-decoration: none !important;
+        color: black !important;
+        font-size: large;
+        font-weight: 500;
+}
+
+.nav-item{
+    color: #ffff;
+    font-weight: 400;
+}
+
+.nav-link{
+    text-decoration: none;
+    font-weight:400;
+    font-size: 1.15em;
+    color: rgb(59, 59, 50);
+}
+
+
+a:hover{
+    font-weight: 700;
+}
